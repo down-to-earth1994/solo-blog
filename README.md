@@ -5,11 +5,13 @@
 <h4 align="center">记录精彩的程序人生</h4>
 <p align="center"><a title="贺艳峰程序记录" target="_blank" href="https://github.com/down-to-earth1994/solo-blog"><img src="https://img.shields.io/github/last-commit/down-to-earth1994/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/down-to-earth1994/solo-blog"><img src="https://img.shields.io/github/repo-size/down-to-earth1994/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/down-to-earth1994/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/down-to-earth1994/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [State of water](https://www.heyanfeng.store/articles/2019/11/26/1574776672304.html)
+* [Everyone needs food and water](https://www.heyanfeng.store/articles/2019/11/26/1574774744855.html)
 * [So we still don't know if he lived or died](https://www.heyanfeng.store/articles/2019/11/25/1574690785887.html)
 * [CSS 复习 --CSS 轮廓](https://www.heyanfeng.store/articles/2019/11/12/1573526407102.html)
 * [CSS 盒子模型](https://www.heyanfeng.store/articles/2019/11/11/1573455606961.html)
@@ -33,4 +35,4 @@
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
