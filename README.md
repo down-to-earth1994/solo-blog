@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [traffice accident](https://www.heyanfeng.store/articles/2019/12/02/1575292775721.html)
 * [State of water](https://www.heyanfeng.store/articles/2019/11/26/1574776672304.html)
 * [Everyone needs food and water](https://www.heyanfeng.store/articles/2019/11/26/1574774744855.html)
 * [So we still don't know if he lived or died](https://www.heyanfeng.store/articles/2019/11/25/1574690785887.html)
@@ -29,6 +30,9 @@
 * [CSS  复习 -- 文本例子](https://www.heyanfeng.store/articles/2019/11/04/1572851863420.html)
 * [CSS 复习笔记 背景图片 样式](https://www.heyanfeng.store/articles/2019/11/04/1572849986496.html)
 * [Effective java (3) 学习记录解读 -   1条例： 考虑使用静态工厂方法替代构造方法](https://www.heyanfeng.store/articles/2019/11/04/1572834984322.html)
+
+### 热门
+
 * [我在 GitHub 上的开源项目](https://www.heyanfeng.store/my-github-repos)
 
 
