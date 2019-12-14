@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [算法基础概念(四) ---栈和队列](https://www.heyanfeng.store/articles/2019/12/14/1576307891102.html)
+* [算法基础概念(三) --链表](https://www.heyanfeng.store/articles/2019/12/14/1576296561496.html)
+* [算法基础概念(二)--数组](https://www.heyanfeng.store/articles/2019/12/14/1576295292421.html)
 * [12 13 英文学习](https://www.heyanfeng.store/articles/2019/12/13/1576248731477.html)
 * [算法基础概念(一) --- 时间复杂度概念](https://www.heyanfeng.store/articles/2019/12/12/1576161661474.html)
 * [12 11 英文学习](https://www.heyanfeng.store/articles/2019/12/11/1576072839735.html)
@@ -27,15 +30,15 @@
 * [Effective java (3) 学习记录解读 25-28条例   列表优先于数组 && 优先考虑泛型 && 优先考虑泛型方法&& 利用有限制通配符来提升API的灵活性](https://www.heyanfeng.store/articles/2019/11/07/1573108671603.html)
 * [Effective java (3) 学习记录解读 22条例 优先考虑静态成员类](https://www.heyanfeng.store/articles/2019/11/07/1573096387266.html)
 * [Effective java (3) 学习记录解读 18条例 接口优于抽象类](https://www.heyanfeng.store/articles/2019/11/06/1573030458374.html)
-* [Effective java (3) 学习记录解读  5条例 避免创建不必要的对象](https://www.heyanfeng.store/articles/2019/11/06/1573030407016.html)
-* [CSS  复习 边框(border)](https://www.heyanfeng.store/articles/2019/11/06/1573006525432.html)
-* [CSS 复习 font 字体](https://www.heyanfeng.store/articles/2019/11/06/1573005368138.html)
 
 ### 热门
 
 * [我在 GitHub 上的开源项目](https://www.heyanfeng.store/my-github-repos)
 * [Effective java (3) 学习记录解读 - 2条例： 遇到多个构造器参数时要考虑用构建器](https://www.heyanfeng.store/articles/2019/11/05/1572936901510.html)
+* [CSS 复习 font 字体](https://www.heyanfeng.store/articles/2019/11/06/1573005368138.html)
+* [CSS  复习 边框(border)](https://www.heyanfeng.store/articles/2019/11/06/1573006525432.html)
 * [Effective java (3) 学习记录解读 - 3条例 用私有构造器或者枚举类型强化Singleton属性](https://www.heyanfeng.store/articles/2019/11/05/1572938675417.html)
+* [Effective java (3) 学习记录解读  5条例 避免创建不必要的对象](https://www.heyanfeng.store/articles/2019/11/06/1573030407016.html)
 * [Effective java (3) 学习记录解读 -   1条例： 考虑使用静态工厂方法替代构造方法](https://www.heyanfeng.store/articles/2019/11/04/1572834984322.html)
 * [CSS 复习笔记 背景图片 样式](https://www.heyanfeng.store/articles/2019/11/04/1572849986496.html)
 * [CSS  复习 -- 文本例子](https://www.heyanfeng.store/articles/2019/11/04/1572851863420.html)
